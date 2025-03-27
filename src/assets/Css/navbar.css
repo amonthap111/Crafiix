@@ -1,0 +1,21 @@
+nav ul li{
+    
+    list-style: none;
+    
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 20px;
+
+}
+/* ปรับขนาดไอคอน */
+i, svg {
+    font-size: 20px;
+   
+  }
+  nav{
+    z-index: 1;
+    
+  }
